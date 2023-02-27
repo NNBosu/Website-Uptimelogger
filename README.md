@@ -19,7 +19,7 @@ The bot will automatically fetch all the websites you've provided to it and see 
 
 1. Clone this repository:
 ```
-git clone git@github.com:jozsefsallai/StatusBot
+git clone https://github.com/NNBosu/StatusBot.git
 cd StatusBot
 ```
 
