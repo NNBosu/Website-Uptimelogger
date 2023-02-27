@@ -2,8 +2,6 @@
 
 # StatusBot
 
-[![Build Status](https://travis-ci.org/jozsefsallai/StatusBot.svg?branch=master)](https://travis-ci.org/jozsefsallai/StatusBot)
-
 A Discord bot that tells you if there's any problems with your websites. The app will send a new message to a specific channel from a specific Discord server at a given refresh interval.
 
 ## How It Works
